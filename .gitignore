@@ -1,4 +1,4 @@
 /public/files/*.postman*
 
-/cache/*
 !/cache
+/cache/*
