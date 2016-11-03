@@ -52,7 +52,8 @@
         <div class="col-sm-3 col-md-2 sidebar">
           <ul class="nav nav-sidebar">
             <li class="active"><p>Overview <span class="sr-only">(current)</span></p></li>
-            <li><a href="#">Reports</a></li>
+            <li><a href="/chart">Chart</a></li>
+            <li><a href="/customer">Customers</a></li>
           </ul>
           <ul class="nav nav-sidebar">
             <li><p>Tools</p></li>
