@@ -1,5 +1,11 @@
 <h1 class="page-header">{{ apiver }}</h1>
 
+<ul>
+	<li> title
+	<li> curl+action : 帶有單一按鈕的下拉選單
+	<li> response
+</ul>
+
 {% for key, value in groupItem %}
 
 <div>
